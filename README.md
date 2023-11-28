@@ -29,10 +29,23 @@
 
 ### Tech Stack <a name="tech-stack"></a>
 
+  <details>
+  <summary>Client</summary>
   <ul>
-    <li>Ruby</li>
-    <li>Rails</li>
+    <li><a href="https://www.w3schools.com/html/default.asp">HTML</a></li>
+    <li><a href="https://www.w3schools.com/css/default.asp">CSS</a></li>
+    <li><a href="https://getbootstrap.com/">Bootstrap</a></li>
+    <li><a href="https://react.dev/learn">React</a></li>
   </ul>
+</details>
+
+<details>
+  <summary>Server</summary>
+  <ul>
+    <li><a href="https://www.ruby-lang.org/en/">Ruby</a></li>
+    <li><a href="https://guides.rubyonrails.org/">Ruby on Rails</a></li>
+  </ul>
+</details>
 
 <details>
 <summary>Database</summary>
@@ -51,6 +64,9 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
+
+## 🔗 Frontend Link <a name="documentation"></a>
+  > _My [Hello-React-Frontend](https://github.com/Bhekisile/hello-react-frontend) code is built using React and Redux and is hosted on a separate repository. The front end handles the user interface and integrates with my backend API to retrieve and display data. To access our backend code, please click [here](https://github.com/Bhekisile/hello-react-frontend)._
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
